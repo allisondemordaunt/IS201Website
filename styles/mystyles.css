@@ -1,0 +1,24 @@
+/*! 4 Attributes
+font-family
+color 
+text-alignment 
+font-size
+
+4 custom styles
+p
+h1
+bold 
+italic*/
+
+body{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+h2{
+    color: rgb(231, 131, 131);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:italic; 
+}
+
