@@ -1,0 +1,33 @@
+body{
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+a {
+    color: white;
+    font-size: larger;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+h2{
+    color: rgb(231, 131, 131);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:italic; 
+}
+
+h2:hover{
+    color:lightpink;
+}
+
+h3{
+    color:rgb(231, 131, 131);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
